@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "name": "Central European Archery",
+    "image": "./Images/archery-range.png",
+    "feudalAge": {
+      "size": [
+        325,
+        275
+      ],
+      "positions": [
+        [
+          -5,
+          -25
+        ],
+        [
+          -355,
+          -25
+        ]
+      ]
+    },
+    "castleAge": {
+      "size": [
+        325,
+        275
+      ],
+      "positions": [
+        [
+          -705,
+          -25
+        ],
+        [
+          -1055,
+          -25
+        ]
+      ]
+    }
+  },
+  {
+    "id": 1,
+    "name": "East Asian Archery",
+    "image": "./Images/archery-range.png",
+    "feudalAge": {
+      "size": [
+        335,
+        295
+      ],
+      "positions": [
+        [
+          -5,
+          -380
+        ],
+        [
+          -355,
+          -380
+        ]
+      ]
+    },
+    "castleAge": {
+      "size": [
+        335,
+        315
+      ],
+      "positions": [
+        [
+          -705,
+          -380
+        ],
+        [
+          -1055,
+          -380
+        ]
+      ]
+    }
+  }
+]
